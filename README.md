@@ -1,6 +1,7 @@
 # counter
 
 This template should help get you started developing with Vue 3 in Vite.
+The page contains a set of fields for entering data on five employees - surnames and date of employment. Calculate and display to the user the average length of service for the current time, in the form of an integer number of years.
 
 ## Recommended IDE Setup
 
@@ -31,3 +32,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
